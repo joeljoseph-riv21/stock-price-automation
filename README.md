@@ -70,7 +70,7 @@ An RPA automation built with UiPath Studio 2026 extracting data from a web appli
 
 ## Project Structure
 ```
-StockPriceTrendComparison/
+StockPriceAutomation/
 ├── Main.xaml
 ├── project.json
 ├── Data/
